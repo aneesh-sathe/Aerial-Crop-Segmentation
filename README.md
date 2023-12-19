@@ -7,6 +7,12 @@ it allows computers to understand and interpret images more effectively, facilit
 
 ## (2) Crop Lands
 
+| ![Title 1](https://github.com/aneesh-sathe/Aerial-Crop-Segmentation/assets/117112887/6f80a3f1-1013-4de7-a2f5-58ec5d178c0c) | ![Title 2](https://github.com/aneesh-sathe/Aerial-Crop-Segmentation/assets/117112887/61178685-da9e-4a09-9c7b-952ba06bc9c9) |
+| --- | --- |
+| UAV Captured Field | Segmented Field |
+
+
+
 Efficient crop land maintenance is crucial for optimal agricultural outcomes, especially during growth and harvest seasons. According to the World Bank, Agriculture can significantly impact Poverty Reduction, Income Elevation, and Food Security for the majority of the world's poor residing in rural areas. Artificially Intelligent Solutions, such as Weed Detection in Crop Lands using Computer Vision, can streamline weed identification processes, reducing manual efforts. Additionally, Semi-Autonomous Drones and UAVs prove invaluable in surveying entire farm lands during the vulnerable growth phase, enhancing overall efficiency in weed management.
 
 This not only contributes to efficient agricultural practices but also aligns with the broader goal of leveraging advanced technologies for sustainable and high-yield crop production.
